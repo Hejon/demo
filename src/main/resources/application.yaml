@@ -1,0 +1,16 @@
+server:
+  port: 8083
+
+name: aaa
+
+person:
+  name: bbb
+  age: 18
+
+person2: {name: ccc, age: 30}
+
+address:
+  - beijing
+  - shanghai
+
+address2: [beijing, shanghai]
